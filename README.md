@@ -180,6 +180,7 @@ We recommend at least 8 GB RAM and 4 CPU cores for smooth MassCompile or VI Anal
 2. Direct support: email shivang.sharma@emerson.com
 
 ## Licensing Agreement
+See [LICENSE](./LICENSE)
 
 
 
